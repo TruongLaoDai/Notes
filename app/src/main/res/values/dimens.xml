@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weight_view">316dp</dimen>
+    <dimen name="height_view">48dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="paddingbutton">20dp</dimen>
+    <dimen name="textsize">20sp</dimen>
+    <dimen name="textsize2">15sp</dimen>
+</resources>

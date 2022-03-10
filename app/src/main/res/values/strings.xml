@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="text_1">Chào mừng đã trở lại</string>
+    <string name="text_2">Đăng nhập để tiếp tục</string>
+    <string name="text_3">Nhập địa chỉ Email</string>
+    <string name="text_4">Nhập mật khẩu</string>
+    <string name="text_5">Đăng nhập</string>
+    <string name="text_6">Quên mật khẩu ?</string>
+    <string name="text_7">Tạo tài khoản mới</string>
+    <string name="text_8">Tạo tài khoản</string>
+    <string name="text_9">Quay lại đăng nhập</string>
+    <string name="text_10">Đăng ký</string>
+    <string name="text_11">Lấy mật khẩu</string>
+    <string name="text_12">Xác nhận</string>
+    <string name="text_13">Nhập lại mật khẩu</string>
+    <string name="tex_14">Dành cho nhà phát triển</string>
+    <string name="text_15">Nội dung ghi chú ở đây</string>
+    <string name="text_16">Nhập nội dung tiêu đề</string>
+    <string name="text_17">Nhập nội dung</string>
+    <string name="text_18">Lưu</string>
+</resources>
